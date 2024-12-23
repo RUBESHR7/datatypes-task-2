@@ -1,5 +1,6 @@
 print(type("string"))
 print(type(8))
+print(type(8.0))
 print(type([2]))
 print(type({2}))
 print(type((2)))
